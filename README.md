@@ -1,18 +1,18 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed184cb6-6bde-41e2-a42d-a4cdaa5a546b/deploy-status)](https://app.netlify.com/sites/dorabelme/deploys)
 
-# [Taskr Todo App](https://taskr-todo.netlify.app)
+# [Card Dealer App](https://card-dealer-app.netlify.app/)
 
-A Simple React Todo App built with class components.
-[Deployed App](https://taskr-todo.netlify.app)
+A Simple React Card Dealer App built using Deck of Cards API.
+[Deployed App](https://card-dealer-app.netlify.app/)
 
 ## Short demo:
 
 <p align ="center">
-<img src="./taskr.gif" alt="Taskr app example">
+<img src="./card_dealer.gif" alt="Card Dealer app example">
 </p>
 
 ## Installation
 
-1. `git clone git@github.com:dorabelme/Taskr.git`
+1. `git clone git@github.com:dorabelme/Card-Dealer.git`
 2. `npm install`
 3. `npm start`
